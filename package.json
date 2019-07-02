@@ -1,0 +1,24 @@
+{
+  "name": "webpackStudy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CTODP/webpackStudy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CTODP/webpackStudy/issues"
+  },
+  "homepage": "https://github.com/CTODP/webpackStudy#readme",
+  "devDependencies": {
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.3.5"
+  }
+}
